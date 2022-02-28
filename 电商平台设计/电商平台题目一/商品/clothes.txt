@@ -1,0 +1,4 @@
+nike huzewei clothes 80 75 
+adidas huzewei clothes 100 20 
+lining huzewei clothes 100 20 
+anta chenRongdi clothes 80 50 

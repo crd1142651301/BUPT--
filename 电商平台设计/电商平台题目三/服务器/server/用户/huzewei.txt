@@ -1,0 +1,4 @@
+Account: huzewei
+Password: 123456
+Balance: 400
+AccountKind: 1

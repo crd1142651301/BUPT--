@@ -1,0 +1,3 @@
+C++Prime chenRongdi book 100 25
+CPrimePlus chenRongdi book 60 40
+JaneEyre chenRongdi book 50 50

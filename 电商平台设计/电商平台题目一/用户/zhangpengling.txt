@@ -1,0 +1,4 @@
+Account: zhangpengling
+Password: 123456
+Balance: 190
+AccountKind: 1

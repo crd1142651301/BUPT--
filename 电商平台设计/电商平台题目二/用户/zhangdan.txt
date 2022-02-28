@@ -1,0 +1,4 @@
+Account: zhangdan
+Password: 20030525
+Balance: 0
+AccountKind: 0

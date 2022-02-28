@@ -1,0 +1,3 @@
+nike huzewei clothes 100 50 
+adidas huzewei clothes 100 20 
+lining huzewei clothes 100 20 
